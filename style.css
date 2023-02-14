@@ -57,3 +57,8 @@ color: rgb(12, 11, 12);
 .boody{
     background-color: beige;
 }
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
